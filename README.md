@@ -12,5 +12,4 @@ This repository is created as part of the Project Management with Git Lab
 2.git status
 3.git add
 4.git commit
-5.git push
-6.git full4
+
